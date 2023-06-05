@@ -1,0 +1,16 @@
+.back-home {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .back-home a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .back-home a:hover {
+    background-color: #555;
+  }
